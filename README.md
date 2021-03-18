@@ -1,3 +1,17 @@
-# Personal-Projects
+# Simple-python-app
+This app was created with the intention to practice my Python abilities.
 
-At first, this repository will be used to store my personal projects. Projects just to practice a language, that has a practical use, or a application designed for me just for the sake of it.
+## What it does:
+
+1.  Once you run the app, the program will create a .txt file at that folder.
+2.  That file will have the address of that folder in it.
+3.  It will look for folders inside of the current folder: 
+    1. If there is: It will go to each folder and repeat the process (create a .txt file, look for more folders, go into them and etc).
+    2. If not:
+        1. It will Stop.
+        2. Or will continue the previous folder.
+   
+## Features:
+- [x] Works with python compiler: Anaconda
+- [ ] Works by it self
+
