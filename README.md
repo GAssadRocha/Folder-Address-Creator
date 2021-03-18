@@ -1,4 +1,4 @@
-# Simple-python-app
+# Folder Address Creator
 This app was created with the intention to practice my Python abilities.
 
 ## What it does:
